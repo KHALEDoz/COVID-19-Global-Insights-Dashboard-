@@ -31,4 +31,4 @@
 * **Massive Data Summarization:** Efficiently processes and aggregates live records for **232 countries**, displaying real-time global KPIs (Total Cases & Deaths).
 * **Comparative Insights:** Implements a dynamic ranking system to visualize the **Top 10 impacted regions** using a gradient-coded bar chart for quick severity assessment.
 
-<img width="2491" height="842" alt="global_dashboard" src="https://github.com/user-attachments/assets/5779ba82-031f-4a6a-8ef2-fc94f17b46d3" />
+<img width="1441" height="796" alt="global_dashboard" src="https://github.com/user-attachments/assets/81be6555-9a0b-4f6c-9c62-1611d939475d" />
