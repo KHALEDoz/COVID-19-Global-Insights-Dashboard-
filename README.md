@@ -32,3 +32,6 @@
 * **Comparative Insights:** Implements a dynamic ranking system to visualize the **Top 10 impacted regions** using a gradient-coded bar chart for quick severity assessment.
 
 <img width="1441" height="796" alt="global_dashboard" src="https://github.com/user-attachments/assets/81be6555-9a0b-4f6c-9c62-1611d939475d" />
+
+
+<img width="1349" height="544" alt="Screenshot 2026-04-23 at 10 04 03 AM" src="https://github.com/user-attachments/assets/615fd9f5-0e22-4f8a-9369-059984ead4e6" />
