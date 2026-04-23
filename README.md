@@ -1,7 +1,5 @@
 # COVID19 Global Insights Dashboard
 
-# COVID-19 Global Insights Dashboard 
-
 ## Overview
 [cite_start]This project is an **interactive real-time dashboard** developed to visualize and analyze COVID-19 pandemic trends across **230+ countries**[cite: 26, 27]. [cite_start]The system extracts and processes real-time global health data from reliable sources, managing datasets with over **200,000+ records** to ensure accurate daily reporting[cite: 27].
 
